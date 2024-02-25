@@ -1,0 +1,11 @@
+{
+  	"R7_USER_ADMIN": "r7_admin",
+	"R7_USER_ADMIN_PASSWORD": "te12",
+	"R7_URL_LOGIN": "http://disk.dm.ald/api/v2/auth/login",
+  	"PATH_MIGRATION": "/opt/storage/",
+	"PATH_TO_SCRIPT_ACL": "C:\\Users\\Administrator\\Desktop\\get_acls.ps1",
+	"PS_FQDN_SERVER": "ks-windc01.win.int",
+	"PS_USER": "win\\administrator",
+	"PS_USER_PASSWORD": "A111111a!"
+
+}
